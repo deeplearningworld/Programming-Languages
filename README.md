@@ -1,6 +1,1 @@
-/* This repository will contain
-1.JavaScript
-2.React.js
-3.Java
-4.C++
-*/
+/* This repository will contain cryptography.go and trading.cpp files */
